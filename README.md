@@ -4,6 +4,9 @@ This dashboard explores heating methods and fuel types used for detached domesti
 
 Tableau Public Dashboard Link: https://public.tableau.com/views/EnergyEfficiencyofHomesinScotland/EnergyPerformanceofScotlandHomes?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+<p align="center"><img src="https://github.com/DaveGuenther/Energy-Efficiency-of-Dwellings-in-Scotland/blob/main/Dashboard%20Snapshot.png">
+</p>
+
 ## Cardinality:
 Each row in the visual's underlying dataset represents metadata from the most recent Energy Performance Certificate (EPC) document/inspection of a single detached domestic dwelling.  The property's Unique Property Reference Number (UPRN) was used to capture the most recent assessment and avoid duplicate counting.
 
