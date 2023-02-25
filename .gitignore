@@ -1,0 +1,3 @@
+*.csv
+GB_Full.txt
+!Grade_Scaffold.csv
